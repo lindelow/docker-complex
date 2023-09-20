@@ -10,7 +10,7 @@ function App() {
             <div className="App">
                 <header className="App-header">
                     <img src={logo} className="App-logo" alt="logo"/>
-                    <h3>Now running on ElasticBeanstalk</h3>
+                    <h3>Fib Calculator On AWS ElasticBeanstalk</h3>
                     <Link to="/">Home</Link>
                     <Link to="/otherpage">Other Page</Link>
                 </header>
